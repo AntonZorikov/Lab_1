@@ -37,6 +37,7 @@ Logger logger;
 
 int main(int argc, char *argv[])
 {
+    //Марина Вика Саша Ира
     QApplication a(argc, argv);
     MainWidget w;
     w.move(100, 100);
