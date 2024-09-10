@@ -37,15 +37,11 @@ Logger logger;
 
 int main(int argc, char *argv[])
 {
-<<<<<<< HEAD
     //Марина Вика Саша Ира
     //some text
     //text
     //text some
-=======
-    
 
->>>>>>> branch_1
     QApplication a(argc, argv);
     MainWidget w;
     w.move(100, 100);
