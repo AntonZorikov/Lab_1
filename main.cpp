@@ -37,9 +37,8 @@ Logger logger;
 
 int main(int argc, char *argv[])
 {
-    //some text
-    //text
-    //text some
+    //Zorikov
+    //Dryakin
 
     QApplication a(argc, argv);
     MainWidget w;
