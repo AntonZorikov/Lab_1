@@ -37,6 +37,10 @@ Logger logger;
 
 int main(int argc, char *argv[])
 {
+    //some text
+    //text
+    //text some
+
     QApplication a(argc, argv);
     MainWidget w;
     w.move(100, 100);
